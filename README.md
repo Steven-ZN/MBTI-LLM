@@ -282,7 +282,3 @@ MIT License - 详见 LICENSE 文件
 - **开源社区** 提供各项依赖库支持
 
 ---
-
-<div align="center">
-  <sub>专为人格驱动的AI研究而构建</sub>
-</div>
