@@ -282,7 +282,3 @@ MIT License - See LICENSE file for details
 - **Open Source Community** for various dependency libraries
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ for personality-driven AI research</sub>
-</div>
